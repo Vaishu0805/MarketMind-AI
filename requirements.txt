@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+scipy
+scikit-learn
+plotly
+yfinance
+matplotlib
+statsmodels
+shap
+torch
+transformers
+langchain
